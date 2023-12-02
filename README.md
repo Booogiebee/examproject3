@@ -13,5 +13,4 @@ I used terraform to setup the Kubernetes Cluster. And I deployed my web applicat
 For my second app I used Nginx Web Server and I containerize the nginx welcome web page using nginx server as my base image. Below are images of nginx welcome page provisioned as my second app and my landing page in html format <br/>
 
 ![nginxpage](./Project/nginx%20page.png)<br/><br/>
-![webapp](./Project/Webapp.png)<br/><br/>
 
