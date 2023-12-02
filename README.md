@@ -15,6 +15,3 @@ For my second app I used Nginx Web Server and I containerize the nginx welcome w
 ![nginxpage](./Project/nginx%20page.png)<br/><br/>
 ![webapp](./Project/Webapp.png)<br/><br/>
 
-## Evidence that my AWS account was blocked <br/>
-![aws](./Project/aws.png) <br/> <br/>
-![aws](./Project/aws2.png)
